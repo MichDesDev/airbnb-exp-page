@@ -1,0 +1,108 @@
+const expData = [
+  {
+    id: 1,
+    title: 'Learn photography with tommy',
+    description: 'Interested in becoming a photographer? Tommy really know his business, in this experience he will show you the basic rules for professional pics.',
+    price: 150,
+    coverImg: '/images/roadTrip.jpg',
+    stats: {
+      rating: 5.0,
+      reviewCount: 30,
+    },
+    location: 'Online',
+    openSpots: 0,
+  },
+  {
+    id: 2,
+    title: 'Explore the beauty of lights',
+    description: 'Interested in becoming a photographer? Tommy really know his business, in this experience he will show you the basic rules for professional pics.',
+    price: 150,
+    coverImg: '/images/lights.jpg',
+    stats: {
+      rating: 5.0,
+      reviewCount: 30,
+    },
+    location: 'Berlin',
+    openSpots: 27,
+  },
+  {
+    id: 3,
+    title: 'Jump from an air baloon',
+    description: 'Interested in becoming a photographer? Tommy really know his business, in this experience he will show you the basic rules for professional pics.',
+    price: 150,
+    coverImg: '/images/airBaloon.jpg',
+    stats: {
+      rating: 5.0,
+      reviewCount: 30,
+    },
+    location: 'Cappadocia',
+    openSpots: 27,
+  },
+  {
+    id: 4,
+    title: 'Try revolutionary and immersive AR games',
+    description: 'Interested in becoming a photographer? Tommy really know his business, in this experience he will show you the basic rules for professional pics.',
+    price: 150,
+    coverImg: '/images/augmentedR.jpg',
+    stats: {
+      rating: 5.0,
+      reviewCount: 30,
+    },
+    location: 'Online',
+    openSpots: 27,
+  },
+  {
+    id: 5,
+    title: 'Learn photography with tommy',
+    description: 'Interested in becoming a photographer? Tommy really know his business, in this experience he will show you the basic rules for professional pics.',
+    price: 150,
+    coverImg: '/images/roadTrip.jpg',
+    stats: {
+      rating: 5.0,
+      reviewCount: 30,
+    },
+    location: 'Online',
+    openSpots: 0,
+  },
+  {
+    id: 6,
+    title: 'Explore the beauty of lights',
+    description: 'Interested in becoming a photographer? Tommy really know his business, in this experience he will show you the basic rules for professional pics.',
+    price: 150,
+    coverImg: '/images/lights.jpg',
+    stats: {
+      rating: 5.0,
+      reviewCount: 30,
+    },
+    location: 'Berlin',
+    openSpots: 27,
+  },
+  {
+    id: 7,
+    title: 'Jump from an air baloon',
+    description: 'Interested in becoming a photographer? Tommy really know his business, in this experience he will show you the basic rules for professional pics.',
+    price: 150,
+    coverImg: '/images/airBaloon.jpg',
+    stats: {
+      rating: 5.0,
+      reviewCount: 30,
+    },
+    location: 'Cappadocia',
+    openSpots: 27,
+  },
+  {
+    id: 8,
+    title: 'Try revolutionary and immersive AR games',
+    description: 'Interested in becoming a photographer? Tommy really know his business, in this experience he will show you the basic rules for professional pics.',
+    price: 150,
+    coverImg: '/images/augmentedR.jpg',
+    stats: {
+      rating: 5.0,
+      reviewCount: 30,
+    },
+    location: 'Online',
+    openSpots: 27,
+  },
+];
+
+export default expData;
